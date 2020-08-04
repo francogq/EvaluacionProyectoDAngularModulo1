@@ -2,9 +2,9 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.4.
 
-## Development server
+## Para correr el Proyecto
 
-Pa correr el pryecto debe usar  `ng serve -o` en la terminal. Navigate to `http://localhost:4200/`. 
+Pa correr el proyecto debe usar  `ng serve -o` en la terminal. Navigate to `http://localhost:4200/`. 
 
 ## Code scaffolding
 
