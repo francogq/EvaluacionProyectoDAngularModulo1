@@ -1,6 +1,7 @@
 # PrimerD
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.4.
+Ademas las modificaciones estan en el componente de app.component.html
 
 ## Para correr el Proyecto
 
